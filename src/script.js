@@ -13,6 +13,7 @@ console.log(Sky);
  */
 // Debug
 const gui = new GUI()
+gui.hide()
 // TODO: change the ground
 // Canvas
 const canvas = document.querySelector('canvas.webgl')
